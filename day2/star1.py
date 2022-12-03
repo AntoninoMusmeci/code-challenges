@@ -1,4 +1,3 @@
-max_calories = 0
 total = 0
 with open('day2/input.txt') as f:
     for line in f:
